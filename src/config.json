@@ -17,31 +17,33 @@
   "11155111": {
     "explorerURL": "https://sepolia.etherscan.io/",
     "exchange": {
-      "address": "0x37588a747D340c647bD87201224F4b3EA7d1C9c3" 
+      "address": "0x835E27D229d15F18ff0f4205838a967F48bc39A5" 
     },
     "MT": {
-      "address": "0xEA3F177a9c25eFBDa1e7E0bC6000D300Def47d3A"
+      "address": "0xdC3355a6E161F84682405115aE794524Dc8812A7"
     },
     "mETH": {
-      "address": "0xf2dcCf73D6941493342593d12Be9e992a037d863"
+      "address": "0x383898d89e6327ffA12627AeD74278320cf937e3"
     },
     "mDAI": {
-      "address": "0x6448081c1Ee413528D31d8EDC01c55911c2Df957"
+      "address": "0xa45667f8F39640b9653db4C486DB718D84949559"
     }
   },
   "5": {
     "explorerURL": "https://goerli.etherscan.io/",
     "exchange": {
-      "address": "0x37588a747D340c647bD87201224F4b3EA7d1C9c3" 
+      "address": "0x9340f56FCA7307795Dac38f021A5E6f574b9bf33" 
     },
     "MT": {
-      "address": "0xEA3F177a9c25eFBDa1e7E0bC6000D300Def47d3A"
+      "address": "0x1e6dE3452d93150Eb92AC74e493FA953AC48F4ee"
     },
     "mETH": {
-      "address": "0xf2dcCf73D6941493342593d12Be9e992a037d863"
+      "address": "0xEc75406AB0cfbC3da4AB374cBb2Ed4a9341dfce3"
     },
     "mDAI": {
-      "address": "0x6448081c1Ee413528D31d8EDC01c55911c2Df957"
+      "address": "0x8cfbe74E4942a575cb3518B44b68F96d5e12a489"
     }
   }
 }
+
+
