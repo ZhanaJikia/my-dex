@@ -21,7 +21,7 @@ const PriceChart = () => {
       <div className="component__header flex-between">
         <div className="flex">
           
-          <h2>{symbols && `${symbols[1]}/${symbols[0]}`}</h2>
+          <h2>{symbols.length > 0 && `${symbols[1]}/${symbols[0]}`}</h2>
           
           {priceChart && (
             <div className="flex">
